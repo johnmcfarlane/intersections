@@ -1,0 +1,14 @@
+# CMake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+intersections.cbp
+
+# Linux
+libintersections.a
+intersections
+tests
+
+# RapidJSON
+bin/
